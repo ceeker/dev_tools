@@ -1,2 +1,2 @@
 # dev_tools
-Some userful tool for develop
+Some useful tool for develop
